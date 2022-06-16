@@ -20,3 +20,11 @@ const recipes = {
     }
 }
 
+let flattenRecipe = function() {
+    
+}
+
+let hasAllIngredients = function() {
+    
+}
+
